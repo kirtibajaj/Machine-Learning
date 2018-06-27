@@ -1,0 +1,47 @@
+Where are we witnessing machine learning.....
+
+Where are the s/w , mobile apps , or it be a website,backend system ....
+which is looking at the system we do and how we use
+and then actually use ML to improve and make it more efficient.
+where we use such technology
+
+
+* Google assistant(It is learning what are the things which we ask!!...
+   what are the things which we search on day to day basis...what kind of    languages you use....how smartly you ask and search)
+
+* Google Maps(is use for navigation purpose to drop us from point A to point B   specially)
+  -Google maps go and search for which way will be the best ....among all the way
+   which will be the more effiecient way
+  - it keeps track of how and where you leave.
+
+* Netflix "Recommendation movies for you.."
+   it show more tv series , movies and documentary which we should see next because
+   it is using ml ...when we see something it captures its type that kind of things    we ike to see and show us suggestion on the basis of that.
+
+* Online Advertising....
+  when we visit some website and using some other websites it shows us the adds   related to the previously visited websites...specially on the shopping carts
+
+* Credit Card Fraud Detection...
+  When we use credit card-then it save our data like
+  - what amount frequenty we use it
+  - what duration like once in a week
+  - what range of money is used
+  - what area do i use it
+  - what pattern i use to use it
+  - what are the most merchants to whom we do transaction
+
+   If the card is stole then it may get used in a different pattern...it might not    be the way we are using it regularly so it may  get detected by the machine    learning...
+
+*  Medical Diagnosis..
+   Scams of digital images of various organs
+   So machine learning is used to learn machine through these images that what kind    of problems through which is patient is going through.....
+
+*  Self driving cars...
+   past learning that on this road there is a speed breaker...
+   condition of road was not that good
+    what temp of AC does user like
+    what kind of music does user like...
+    so agin it is using MAchine learning there.......
+
+
+

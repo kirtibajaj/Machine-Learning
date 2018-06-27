@@ -1,0 +1,23 @@
+Why do we need MAchine Learning
+
+* To build system which can continously learn and improve.....
+   because if there are some changer lets take above ex: to recognize digit if       someone writing it differently so machine needs to learn...Writin program       everytime may be scary..
+
+* To handle the explosion of data.
+   because in companies today data is rising at a very good scale so learning each    time how a data can be managed will be problamatic for developer anyytime....so    handling this by machine works a lot.
+   handling machine will just need
+   - input power
+   - maintainance one in a while
+   - to handle volumes of data which the machine needs to completed
+
+
+   
+* To reduce mundace work for us....
+   by us we mean here,developer team, product team, manager team or end user it    could be anything 
+    for ex:-
+     *if machine can learn from our past experiences that what kind of news we read
+       and inspite of searching for that machine will itself provide us with that           kind of news will be beneficial for me....
+
+* To reduce errors, improve efficiency......
+  no matter we human works how hard but if we dowork again and again we may get a   distraction and commit sme mistakes and errors ....whereas if a machine learnt   something that means it will do that work with that effieciency as it can   do........
+  

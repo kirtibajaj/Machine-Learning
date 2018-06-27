@@ -1,0 +1,16 @@
+What is machine learning???
+
+When a machine learn without explicitly programmed.........
+involve in developing s/w
+*Product manager will tell this is what to implement
+*What is the scope of the problem
+*What are parameters
+*What is the solution(what we want to build)
+
+so then a developer will look into this matter and have better understanding of what should include or what not ....write it at proper place and make a s/w
+
+Indirectly, this all going to trained the machine that what to do and how to do..............
+
+Examples:-
+*A machine shortlisting resumes for a job
+*A machine recognizing handwritten digits

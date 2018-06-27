@@ -1,0 +1,15 @@
+machine learning 101
+
+What will we learn........
+
+*What is machine learning?
+*why do we need ML?
+ cause we as end user ,programmer, developer using more concept of machine learning  so we need to see why there is a need of ml?
+*Places and software which already using this technology...
+ Where are weas a end user witnessing machine learning.
+*How can a machine learn ?
+*Machine can only do what a program can do so how can a machine actually learn
+*Types of machine learning that exist
+*Hands on (two real life problem)
+*How can we learn more on machine learning
+
