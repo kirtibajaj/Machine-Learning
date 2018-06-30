@@ -1,0 +1,64 @@
+How do we came to know that the machine has learnt?
+
+
+What are machines good at:-
+*Data
+*FActs,past events and their outcomes
+*Represented s nuumbers, remember they are awesome with numbers
+
+WE want to learn a machine from its past experiences,its mistakes,past datas
+using Data Science
+*Human being learn by talking with people 
+*Human being learn by books,reading stuff
+*Human can use their brain itself,learn by interaction
+
+-Machine Learning Works from data because datat can be represented by the numbers at which they are very good
+
+
+
+*How can a Machine learn From data
+
+There are some data of any buisness domain
+Data can be represented as the number of input output occur
+Data is historical data as a series of (input,output) pairs
+-Find a mathematical function which can generate output as close as possible to the actual outputs.
+So that we can find the approximate values according to that
+
+***This type of process is called as (Regression analysis)***
+
+One way by which machine can learn by using historical data and mathematical computation which can take the input and generate an output so in  the case of the right machine come up with all kind of data so it will come up with some mathematical function by which it will come up with.
+
+
+
+How else can machine learn from data:-
+
+***this type of process is called as (Decision Tree) ***
+So Machine will look forward for the flow chart and can decide in a way and can generate some output due to this
+
+For ex:-
+What was the day i went out for a table tennis
+
+So I will go with weather initially(was it sunny,overcast,RAin)
+If it is SUNNY ,Followed by how much humidity 
+was it high or low
+If it is Rainy,  If therer are some winds was it high wind ,low winds
+
+So the machine will learn 
+By our Previous data
+Like if the day was Sunnny and humidity is normal the guy will go to play TT
+If humidity is high he will not go
+If Outlook is Overcast he/she will definetly go
+THe user also worried about the wind etc..
+
+
+The beauty of all this a  machine doesn't really understand what sunny,wind and etc is but it gives decision on the basis of that
+
+
+The other way a machine can learn is 
+                  ***Cluster Analysis***
+
+*Third type to learn from the data there is no past no future
+*It will work on the basis of Present data
+*It is used to divide the datta into segments which are close to each  other
+
+
