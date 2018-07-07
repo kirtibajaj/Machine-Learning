@@ -1,0 +1,16 @@
+How do we know that the machine has learnt and is capable of handling the critical problems
+
+
+-Firstly user collects a lot of data and it only give 70% of the data to train  the machine so basically the user train machine by 70% of data.
+-then user test the machine with the remaining 30% of data and in this way
+-Machine measures the accuracy of this
+-this is called as the Train-Test-Cycle
+
+
+*It is very important that the user smartly chooses the subset to use to train the machine
+After wards machine may uses whatever technique it want to use depends upon the type of data used.It may use
+-Regression analysis 
+- cluster analysis
+-Decision tree
+
+WE will intially train it and then we will test it with different-2 dataset once the machine started working with accuracy we will consider that the machine has learnt.
