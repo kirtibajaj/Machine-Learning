@@ -1,0 +1,22 @@
+Basic ML Technology
+
+Even in first step of Machine Learning we should be aware about the little bit of terminology.
+
+-Machine Learning Model  :- MAthematical function  or whatever the way through                             which the machine learns is called as abstraction                               of data
+-Features    :- Features are essentially the input variables
+
+-Dependent Variables :- Output Variable through which the machine is trying to                         learn
+-training dataset :- Part of dataset which is used to train the model or we can                       say feed into
+-Test Dataset :- Part of dataset to test 
+-Model Accuracy
+
+
+
+
+*Where we teach the machine with(inputs/outputs) so that it can generate output for new inputs
+-aka supervised learning
+-Regression Analysis, Decision Tree
+
+*Where the machine learn on its own
+-aka unsupervised learning
+-Cluster Analysis
